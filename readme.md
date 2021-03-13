@@ -1,0 +1,16 @@
+# (Ford-gobike Tripdata)
+## by (Emmanuel Gonzalez)
+
+
+## Dataset
+
+> the dataset that I chose is the ford-gobike dataset which is one of the datasets provided by Udacity.This investigation primarily focuses on exploring, analyzing and vizualizing the bike usage of Ford Gobike customers and subscribers.Through this investigation we hope to discern any patterns or characteristics that could help to get a better understanding of the users.Bay Wheels is a regional public bicycle sharing system in California's San Francisco Bay Area.Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States. It was established as Bay Area Bike Share in August 2013. As of January 2018, the Bay Wheels system had over 2,600 bicycles in 262 stations across San Francisco, East Bay and San Jose.The Ford Gobike dataset consists of monthly trip data for 2018. which contains the trip information, in total the dataset contains 1863721 registered trips with 21 variables(duration_sec,start_time,end_time,start_station_id,start_station_name,start_station_latitude,start_station_longitude,end_station_id,end_station_name,end_station_latitude end_station_longitude,bike_id,user_type).
+
+## Summary of Findings
+
+> The distributions for trip start times peak at two points during the day 8am-9am & 5pm-6pm, Monday-Friday during typical rush hours. The month with the highest amount of trips is October compared to the other months, though the months with the most activity seem to be from May through October, this is most likely due to the weather during those months.As shown through the visualizations its obvious there are more subscribers than customers. The usage of the bikes vary between the subscribers and customers, the subscribers seem to use the bikes mostly during rush hour in the morning and afternoon, while the customers use the bikes for recreational purpose in the afternoons and evenings.The multivariate exploration strengthened some of the patterns discovered in the bivariate exploration as well as univariate exploration The short period of usage for subscribers corresponds to their high concentration on rush hours Monday through Friday, indicating the use is most likely primarily for work commute. The pattern of customer use shows that they're mostly using the bike sharing system differently from the subscribers, mostly during weekends and in the afternoon.
+
+
+## Key Insights for Presentation
+
+> Different usage pattern between the two type of riders are seen from the exploration. Subscribers use the system heavily on work days i.e. Monday through Friday whereas customers ride a lot on weekends, especially in the afternoon. Many trips concentrated around 8-9am and 17-18pm on work days for subscribers, yet customers tend to use more in the late afternoon around 17pm Monday to Friday. The short period of usage for subscribers corresponds to their high concentration on rush hours Monday through Friday, indicating the use is primarily for work commute. The more relaxing and flexible pattern of customer use shows that they're taking advantage of the bike sharing system quite differently from the subscribers, heavily over weekends and in the afternoon, for leisure probably.
